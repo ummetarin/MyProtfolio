@@ -10,7 +10,7 @@ const Aboutme = () => {
             <div className="hero mt-8 ">
                
   <div className="hero-content flex-col lg:flex-row">
-    <div className="w-[40%] ">
+    <div className="w-[40%] justify-center flex ">
     <img src="https://i.ibb.co/YDVnVRh/384553128-324476877023016-2666399241610718134-n-1.jpg" className="max-w-sm rounded-lg shadow-2xl" />
     </div>
     <div className="w-[40%]">
