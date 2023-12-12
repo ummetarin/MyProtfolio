@@ -55,7 +55,7 @@ const Myskill = () => {
                 
             </div>
 
-            <div  className="flex md:flex-row flex-col mx-auto justify-center pt-9 items-center gap-6" >
+            <div  className="flex md:flex-row flex-col mx-auto justify-center pt-9 md:pb-5 pb-24 items-center gap-6" >
                 <div>
                 <h1 className="text-2xl text-stone-100 font-bold">Backend Experience In → </h1>
                 </div>
